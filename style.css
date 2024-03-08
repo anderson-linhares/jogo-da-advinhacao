@@ -1,0 +1,55 @@
+.pag-container {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body main .container {
+    border: solid;
+    width: 60%;
+    margin-top: 5%;
+    padding-top: 2%;
+}
+
+.pag-container h1 {
+    color: green;
+
+}
+
+.pag-container input {
+    font-size: x-large;
+    border: solid;
+    border-style: groove;
+}
+
+#feedback-container {
+    font-size: large;
+}
+
+.btn {
+    background-color: green !important; 
+    border-radius: 12px;
+    font-size: x-large;
+    color: white !important ;
+    margin-bottom: 4%;
+}
+
+.botao-container {
+    text-align: center;
+    margin-top: 4%;
+}
+
+#botao-novamente-container {
+    display: none;
+    margin-top: 3%;
+}
+
+.resposta-certa {
+    color: green;
+}
+
+.resposta-errada{
+    color: red;
+}
