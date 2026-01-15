@@ -1,0 +1,60 @@
+#botao-tema {
+    position: fixed;
+    top: 2%;
+    right:2%;
+}
+.tema-escuro {
+    background: #292929;
+    color: #fff;
+}
+.tema-claro {
+    background: #f2f2f2;
+    color: #000;
+}
+.pag-container {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+body main .container {
+    border: solid;
+    width: 60%;
+    margin-top: 5%;
+    padding-top: 2%;
+}
+
+.pag-container h1 {
+    color: green;
+
+}
+
+.pag-container input {
+    font-size: x-large;
+    border: solid;
+    border-style: groove;
+}
+
+#feedback-container {
+    font-size: large;
+}
+
+.btn-success {
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+
+#botao-novamente-container {
+    display: none;
+    margin-top: 3%;
+}
+
+.resposta-certa {
+    color: green;
+}
+
+.resposta-errada{
+    color: red;
+}
